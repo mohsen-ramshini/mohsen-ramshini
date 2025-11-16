@@ -155,6 +155,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsen-ramshini&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-ramshini&layout=compact&theme=radical" />
+  <img 
+    src="https://github-readme-stats-ochre-five-17.vercel.app/api?username=mohsen-ramshini&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
+    style="display:inline-block; margin-right:10px;"
+  />
+  <img 
+    src="https://github-readme-stats-ochre-five-17.vercel.app/api/top-langs/?username=mohsen-ramshini&layout=compact&langs_count=10&card_width=400&theme=radical&hide_border=true" 
+    style="display:inline-block;"
+  />
 </p>
+
+
+
